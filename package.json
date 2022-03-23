@@ -1,0 +1,30 @@
+{
+  "name": "7-2",
+  "version": "1.0.0",
+  "description": "my first project on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAB-87/Setting-VS-Code-and-debugger-s-configuration-for-Node.js.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "AAB-87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAB-87/Setting-VS-Code-and-debugger-s-configuration-for-Node.js/issues"
+  },
+  "homepage": "https://github.com/AAB-87/Setting-VS-Code-and-debugger-s-configuration-for-Node.js#readme",
+  "dependencies": {
+    "prettier": "^2.6.0"
+  },
+  "devDependencies": {
+    "beautify": "^0.0.8",
+    "eslint": "^8.11.0"
+  }
+}
